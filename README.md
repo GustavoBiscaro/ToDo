@@ -19,3 +19,12 @@ Instalar o módulo para reiniciar o servidor sempre que houver alteração no c�
 ### npm install -g nodemon
 ### npm install --save-dev nodemon
 
+Rodar o projeto com nodemon
+### nodemon app.js
+
+Sequelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL
+### npm install --save sequelize
+
+Instalar o drive do banco de dados
+### npm install --save mysql12
+### npm install mysql
